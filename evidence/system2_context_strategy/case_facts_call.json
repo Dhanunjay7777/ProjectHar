@@ -1,7 +1,7 @@
 {
   "model": "claude-haiku-4-5-20251001",
-  "input_tokens": 47200,
-  "output_tokens": 312,
+  "input_tokens": 47601,
+  "output_tokens": 122,
   "raw_output": {
     "customer_id": "CUST-88421",
     "refund_order_id": "ORD-77310",

@@ -22,11 +22,30 @@
 
 # Resolved: Refund inquiry
 
-Customer Linda Marchetti reported receiving damaged items in order ORD-77310 (compromised all-purpose flour, damaged penne pasta boxes, leaking olive oil, and dented tomato cans). Agent verified line-item pricing and confirmed an eligible refund subtotal of $22.14 for damaged items, rejecting an initial $48.99 figure as an order category subtotal. A $22.14 refund to the original Visa credit card was authorized along with a $5 courtesy discount code for future orders.
+**Outcome.** The customer's damaged-order refund for order ORD-77310 was processed for $22.14 to their original Visa card.
+
+**Key facts.**
+- Order ID: ORD-77310; Customer: Linda Marchetti (CUST-88421).
+- Damaged items: 5 lb all-purpose flour, 2 of 3 penne pasta boxes, 1L olive oil (leaked), 2 of 4 dented diced tomato cans.
+- Undamaged retained items: 1 pasta box, 2 tomato cans.
+- Customer originally noted $48.99 subtotal, which was clarified as a category grouping rather than the damage subtotal.
+- Authorized $22.14 refund to Visa card (posts in 3–5 business days, claim ref DM-2026-441872).
+- Issued $5 courtesy discount code for future order over $30 with no expiration.
+
+**Resolution.** Refund processed to original payment method; service note logged for delivery operations.
 
 # Resolved: Subscription cancellation
 
-Customer identified an unexpected duplicate charge for Pantry Plus Monthly subscription SUB-22119. Agent verified account billing history, confirmed the duplicate billing discrepancy, and processed cancellation of subscription SUB-22119. A prorated refund was issued to the customer's payment method, and confirmation was provided.
+**Outcome.** Subscription SUB-22119 was cancelled and a prorated refund was issued following an unexpected duplicate charge.
+
+**Key facts.**
+- Subscription ID: SUB-22119 (Pantry Plus Monthly).
+- Customer noticed duplicate billing: $18.99 charge on May 3 and identical $18.99 charge on May 7.
+- Both charges verified as cleared; cancellation requested due to slow grocery usage and duplicate billing.
+- Prorated refund for unused portion of current billing cycle initiated to payment method on file.
+- Confirmation email and cancellation receipt provided to customer.
+
+**Resolution.** Subscription cancelled_with_prorated_refund.
 
 # Active issue: Payment-method update
 
